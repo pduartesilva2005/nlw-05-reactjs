@@ -36,6 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Podcastr é uma plataforma para ouvir transmissões de podcasts
 
 ## 🔥 Como Começar
+
 - 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw5-react.git`;
 - 2 - Entre na pasta `cd nlw5-react`;
 - 3 - Rode `yarn` ou `npm install` para instalar as dependências;
@@ -53,7 +54,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
