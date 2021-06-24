@@ -37,8 +37,8 @@ O Podcastr é uma plataforma para ouvir transmissões de podcasts
 
 ## 🔥 Como Começar
 
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw5-react.git`;
-- 2 - Entre na pasta `cd nlw5-react`;
+- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw-05-reactjs.git`;
+- 2 - Entre na pasta `cd nlw-05-reactjs`;
 - 3 - Rode `yarn` ou `npm install` para instalar as dependências;
 - 5 - Rode a api fake: `yarn server` ou `npm run server`;
 - 6 - Rode `yarn dev` ou `npm run dev` para rodar o projeto
